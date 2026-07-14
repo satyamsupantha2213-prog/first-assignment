@@ -62,3 +62,7 @@ button:hover{
     top: 150%;
     left: 45%;
 }
+.writting{
+    display: flex;
+    justify-content: center;
+}
